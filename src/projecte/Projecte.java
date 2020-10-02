@@ -15,8 +15,12 @@ public class Projecte {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
         System.out.println("THE OTHER");
            System.out.println("THE OTHER AGAIN");
+
+        System.out.println("Mr. Original");
+
     }
     
 }
